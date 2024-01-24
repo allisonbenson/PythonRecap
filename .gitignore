@@ -1,1 +1,3 @@
-.venv/
+#list anything you dont want to track
+myvenv/
+#the / means ignore everything below that directory as well
